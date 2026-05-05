@@ -34,6 +34,6 @@ grandparent(X, Y) :-
 
 
 Output;;
-?- father(john, paul).
-?- mother(mary, lisa).
-?- sibling(paul, lisa).
+father(john, paul).
+mother(mary, lisa).
+sibling(paul, lisa).
