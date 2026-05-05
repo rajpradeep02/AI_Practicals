@@ -6,3 +6,7 @@ conc([], L, L).
 % Recursive case
 conc([H|T], L2, [H|L3]) :-
     conc(T, L2, L3).
+
+    OUTPUT
+conc([1,2,3], [4,5,6], L).
+conc([a,b], [c,d], L).
