@@ -12,5 +12,5 @@ factorial(N, F) :-
 
 
 OUTPUT
-?- factorial(5, F).
-?- factorial(3, F).
+factorial(5, F).
+factorial(3, F).
