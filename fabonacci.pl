@@ -15,5 +15,5 @@ generate_fib(N, T) :-
 
 
 OUTPUT
-?- generate_fib(5, T).
-?- generate_fib(7, T).
+generate_fib(5, T).
+generate_fib(7, T).
