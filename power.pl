@@ -12,5 +12,5 @@ power(Num, Pow, Ans) :-
 
 
 OUTPUT
-?- power(2, 3, Ans).
-?- power(5, 2, Ans).
+power(2, 3, Ans).
+power(5, 2, Ans).
