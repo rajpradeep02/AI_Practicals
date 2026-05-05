@@ -8,5 +8,5 @@ max(X, Y, Y) :-
 
 
 OUTPUT
-?- max(10, 5, M).
-?- max(3, 8, M).
+max(10, 5, M).
+max(3, 8, M).
