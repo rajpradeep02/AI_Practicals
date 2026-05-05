@@ -5,5 +5,5 @@ sum(X, Y, S) :-
 
 
 OUTPUT
-?- sum(5, 10, S).
-?- sum(7, 3, S).
+sum(5, 10, S).
+sum(7, 3, S).
