@@ -11,5 +11,5 @@ multi(N1, N2, R) :-
 
 
 OUTPUT
-?- multi(4, 3, R).
-?- multi(5, 2, R).
+multi(4, 3, R).
+multi(5, 2, R).
