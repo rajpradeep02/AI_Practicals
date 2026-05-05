@@ -15,5 +15,5 @@ conc([H|T], L2, [H|L3]) :-
 
 
 OUTPUT
-?- reverse([1,2,3,4], R).
-?- reverse([a,b,c], R).
+reverse([1,2,3,4], R).
+reverse([a,b,c], R).
